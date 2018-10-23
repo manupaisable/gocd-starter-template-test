@@ -5,7 +5,7 @@
   </server>
   <config-repos>
     <config-repo pluginId="json.config.plugin" id="demo-config-repo">
-      <git url="https://github.com/gocd-contrib/getting-started-repo" />
+      <git url="https://github.com/manupaisable/gocd-demo-pipeline" />
     </config-repo>
   </config-repos>
   <pipelines group="defaultGroup">
